@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f55d25de6dfc10b46842853bb4ea9bee, type: 3}
+  m_Name: Game Properties
+  m_EditorClassIdentifier: 
+  m_gameName: Destroy the Source
+  m_executableName: dts
+  m_versionMajor: 0
+  m_versionMinor: 0
+  m_versionRelease: 1
+  m_bitbucketUrl: 
+  m_readmeFileName: credits.txt
+  m_changelogFileName: 
+  m_sceneFolder: Assets
+  m_sceneList:
+  - main
+  m_itchUserNane: joshua-mclean
+  m_itchChannel: destroy-the-source
